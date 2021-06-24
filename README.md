@@ -14,7 +14,7 @@ O arquivo 'CreditoParaTodxs' possuí a pasta 'src', nela contém 3 packages.
 -> Telas: onde contém todas as telas (JFrames) criadas para este sistema.
 
 
-Como descrito no documento do programa Código<para>Todxs, o sistema requer persistência de dados, para isso foi utilizado o programa MySQL Workbench usando o localhost. Então para executar o sistema, quem o testar deve baixar o MySQL Workbench inserindo durante a instalação o mesmo user e senha, o user é 'root' e a senha '123456'. Após a instalação é necessário criar a conexão com o banco de dados que deve se chamar 'ProvaJava'.
+Como descrito no documento do programa Código<para>Todxs, o sistema requer persistência de dados, para isso foi utilizado o programa MySQL Workbench usando o localhost. Então para executar o sistema, quem o testar deve baixar o MySQL Workbench inserindo durante a instalação o mesmo user e senha, o user é 'root' e a senha '123456'. Após a instalação é necessário criar a conexão com o banco de dados que deve se chamar 'ParaTodxs'.
 
 OBS:. Todas as informações precisam ser iguais para que o sistema consiga ser executado.
 
